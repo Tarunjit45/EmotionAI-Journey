@@ -6,33 +6,33 @@
 
 ## 📌 Overview
 
-A high-performance None application engineered for scalability and quality.
+A high-performance application engineered by Tarunjit Biswas for quality and scalability.
 
 ## ✨ Key Features & Architecture
 
-- **High-Performance Architecture:** Engineered using modern `TypeScript / Python` best practices.
-- **Modular & Scalable Design:** Structured code organization for easy maintenance and deployment.
+- **High-Performance Codebase:** Built using `TypeScript / Python` and modern engineering principles.
+- **Modular & Scalable Design:** Structured directory tree for seamless development and deployment.
 
-## 🛠️ Tech Stack & Technologies
+## 🛠️ Tech Stack & Dependencies
 
-- **Primary Language:** `TypeScript / Python`
-- **Frameworks & Libraries:** TypeScript / Python
-- **Deployment Target:** Vercel Edge / Cloud Infrastructure
+- **Core Language:** `TypeScript / Python`
+- **Libraries & Tools:** TypeScript / Python
+- **Deployment Infrastructure:** Vercel Edge / Cloud Services
 
-## 📁 Project Directory Structure
+## 📁 Architecture & File Layout
 
 ```text
 EmotionAI-Journey/
 ├── README.md
 ```
 
-## 🚀 Getting Started
+## 🚀 Quickstart & Installation
 
 ### Prerequisites
 - Git
 - Modern Web Browser / Runtime
 
-### Installation & Local Setup
+### Setup Instructions
 
 1. **Clone the repository:**
    ```bash
@@ -40,7 +40,7 @@ EmotionAI-Journey/
    cd EmotionAI-Journey
    ```
 
-## 📜 License & Author
+## 📜 Author & License
 
-Engineered with ❤️ by **[Tarunjit Biswas](https://github.com/Tarunjit45)**.  
-Released under the **MIT License**.
+Architected & Developed by **[Tarunjit Biswas](https://github.com/Tarunjit45)**.  
+Distributed under the **MIT License**.
